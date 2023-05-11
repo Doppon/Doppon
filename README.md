@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/Doppon-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/doppo-sekino-86770b152)](https://www.linkedin.com/in/doppo-sekino-86770b152)
 <!--
 **Doppon/Doppon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
