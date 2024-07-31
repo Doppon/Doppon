@@ -2,7 +2,6 @@
 Hi 👋
 
 Thanks for visiting my GitHub.  
-I have some experience developing with Ruby.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Doppon) [![Linkedin Badge](https://img.shields.io/badge/Doppon-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/doppo-sekino-86770b152)](https://www.linkedin.com/in/doppo-sekino-86770b152)
 
