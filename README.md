@@ -1,22 +1,14 @@
 
-Hi 👋
+# Hi 👋 I'm Doppo                                                                                                                                  
+                                                                                                                                                    
+Software Engineer who loves to think deep.                                                                                                     
 
-Thanks for visiting my GitHub.  
-
+## Tech Stack
+                                                                                                                                                    
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)                                                                   
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)                                           
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)                                     
+                                                                                                                                                    
+## Connect                                             
+                                                                                                                                                
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Doppon) [![Linkedin Badge](https://img.shields.io/badge/Doppon-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/doppo-sekino-86770b152)](https://www.linkedin.com/in/doppo-sekino-86770b152)
-
-
-<!--
-**Doppon/Doppon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
